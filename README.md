@@ -27,3 +27,6 @@ Project is made on React + Redux tandem as i said earlier. Social network should
 :white_check_mark: thunk <br>
 #### Link to author documentation
 https://docs.google.com/document/d/1ZSXmTzkgq_Kj1VbWuq8fTv_DPD95GFDvPZgqFeIYGoM/edit#
+###  Test account 
+**Login**: InSearchJob05@gmail.com
+**Password**: ImSearchingJobEveryday
